@@ -19,6 +19,7 @@
     NSLog(@"1234");
     NSLog(@"jkjkjkj");
     NSLog(@"uyuyitit");
+    NSLog(@"hahahha");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
