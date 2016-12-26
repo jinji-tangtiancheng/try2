@@ -21,7 +21,10 @@
     NSLog(@"uyuyitit");
     NSLog(@"hahahha");
     NSLog(@"远程");
+    
     // Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"创建了一条分支");
+    NSLog(@"chaungjianleyitiaofenzhi");
 }
 
 
