@@ -20,6 +20,7 @@
     NSLog(@"jkjkjkj");
     NSLog(@"uyuyitit");
     NSLog(@"hahahha");
+    NSLog(@"远程");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
